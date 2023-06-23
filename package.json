@@ -2,7 +2,7 @@
   "name": "futbol-italiano",
   "private": true,
   "version": "0.0.0",
-  "homepage": "Caito3.github.io/serieA/",
+  "homepage": "https://caito3.github.io/serieA/",
   "type": "module",
   "scripts": {
     "predeploy":"npm run build",
