@@ -1,0 +1,81 @@
+
+
+.equipo{
+    position: realtive;
+    width: 25%;
+    background-color: rgb(158, 151, 151);
+    height: 50vh;
+    margin-left: 6%;
+    margin-top: 7vh;
+    border-radius: 13px;
+    border: 3px solid rgb(134, 134, 134);
+    box-shadow: 1px 1px 8px 8px rgb(240, 242, 243);
+    background-image: url("https://media.istockphoto.com/id/1039532442/es/vector/resumen-creativo-fondo.jpg?s=612x612&w=0&k=20&c=Pb_vUcMrWAndyl0JhXP9nLsKo3iR0D9b4jiRoHT_riQ=");
+    background-size:cover;
+    background-repeat: no-repeat;
+    text-decoration: none;
+    transition: 0.2s;
+}
+.equipo:hover{
+    transform: scale(1.01);
+}
+.foto{
+    position: relative;
+    
+    width: 80%;
+    left: 10%;
+    height: 28vh;
+    top: 3vh
+}
+.fotoEquipo{
+    position: relative;
+    
+    width: 60%;
+    height: 26vh;
+    left: 20%;
+}
+.nombre{
+    position: relative;
+    
+    max-width: 93%;
+    top: -1vh;
+    left:-4%;
+    height: 8vh;
+    text-align: center;
+}
+.nombreEquipo{
+    position: relative;
+    font-size: 200%;
+    left:10%;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255)
+
+}
+.boton{
+    width: 70%;
+    position: relative;
+    left: 16%;
+    height: 6vh;
+    border-radius: 8px;
+    top:1vh;
+    border: none;
+    cursor: pointer;
+    font-size: 110%;
+    background-color: rgb(72, 156, 224);
+    font-weight: 800;
+    background-image: url("");
+    background-size: cover;
+    color:white;
+    transition: 0.3s;
+    border-bottom: 3px solid rgb(33, 105, 169);
+}
+
+
+
+
+
+
+.boton:hover{
+    box-shadow: 0.3px 0.3px 10px 1px rgb(240, 242, 243);
+}

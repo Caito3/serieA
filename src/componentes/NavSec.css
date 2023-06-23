@@ -1,0 +1,52 @@
+
+
+.navSec{
+display: flex;
+background-color: blue;
+width: 100%;
+
+border-bottom: 3px solid rgb(200, 191, 191);
+height: 7vh;
+background-image:url("https://media.istockphoto.com/id/1309453432/es/v%C3%ADdeo/fondo-de-movimiento-azul-corporativo-abstracto-bucle-sin-costuras.jpg?s=640x640&k=20&c=DsoM3XHKEezYffGkSexo8rbcQyys8LFHHswKUiRr80Q=") ;
+}
+.equipoNav{
+    width: 20%;
+    position: relative;
+    left:13%;
+    text-align: center;
+    transition: 0.3s;
+}
+.equiposTexto, .campeonesTexto, .datosTexto{
+    position: relative;
+    font-size: 160%;
+    font-weight: 800;
+    color: rgb(229, 235, 236);
+    left:28% ;
+    top: -3vh;
+    text-shadow:1px 1px 4px rgb(230, 234, 234);
+    cursor: pointer;
+    
+}
+.campeonesTexto{
+    left: 20%
+}
+.datosTexto{
+    left:13%
+}
+.campeones{
+    width: 20%;
+    position: relative;
+    left: 16%;
+    text-align: center;
+    transition: 0.3s;
+}
+.datos{
+    width: 28%;
+    position: relative;
+    left:16%;
+    text-align: center;
+    transition: 0.3s;
+}
+.equipoNav:hover, .campeones:hover, .datos:hover{
+    transform: scale(1.1);
+}

@@ -1,0 +1,90 @@
+
+
+.foot{
+    width: 100%;
+    background-color: white;
+    height: 20vh;
+    position: relative;
+    top: 13vh;
+    background-image: url("https://media.istockphoto.com/id/1309453432/es/v%C3%ADdeo/fondo-de-movimiento-azul-corporativo-abstracto-bucle-sin-costuras.jpg?s=640x640&k=20&c=DsoM3XHKEezYffGkSexo8rbcQyys8LFHHswKUiRr80Q=");
+    border-top: 4px solid white;
+
+}
+.logoDes{
+    width: 12%;
+    height: 7vh;
+    margin-right: 3%;
+}
+.desarrollador{
+    display: flex;
+    position: relative;
+    left:74%;
+    max-width: 23%;
+    top:9vh
+}
+.textoDes, .derTexto{
+    font-size: 120%;
+    font-weight: 800;
+    color:white;
+    position: relative;
+    top:-1vh
+}
+.contacto{
+    
+    position: relative;
+    left: 40%;
+    max-width: 40%;
+    
+}
+.linked, .gmail , .tel{
+    width: 9%;
+    height:6vh;
+    margin-left: 4%;
+}
+.contactoTex, .des, .der{
+    font-size: 130%;
+    font-weight: 800;
+    color: white;
+    position: absolute;
+    left: 44%;
+    top:0vh
+}
+.logos{
+    max-width: 30%;
+    max-height: 10vh;
+    position: relative;
+    top:-13vh
+}
+
+
+
+
+
+
+
+
+
+
+
+.des{
+    left: 76%
+}
+.der{
+    left:13.3%;
+}
+
+.derTexto{
+    left:4%
+}
+.derLogo{
+    width: 11%;
+    height: 8vh;
+}
+.derechos{
+    position: relative;
+    max-width: 30%;
+    display: flex;
+    top:-7vh;
+    left: 13%;
+    
+}

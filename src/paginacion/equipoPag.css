@@ -1,0 +1,77 @@
+
+
+.sec{
+    position: relative;
+    width: 100%;
+    
+}
+.fotoSec{
+    position: relative;
+    width: 17%;
+    height: 34vh;
+    left: 7%;
+    top: 13vh
+}
+.nombreSec,.locSec,.estad,.titulos{
+    position: relative;
+    font-size: 170%;
+    font-weight: 700;
+    text-align: left;
+    left:8%;
+    color: white;
+    text-shadow: 1.8px 1.8px 1px rgb(38, 38, 40);
+    margin-top: 4vh
+}
+.nombreSec{
+    position: relative;
+    top:-1vh
+}
+.locSec{
+    position: relative;
+    top:-5vh
+}
+.estad{
+    position: relative;
+    top:-9vh
+}
+.titulos{
+    position: relative;
+    top:-11vh
+}
+.em{
+    width: 7%;
+}
+
+
+
+
+.desSec{
+    position: relative;
+    font-size: 130%;
+    top:-23vh
+}
+.desar{
+    position: absolute;
+    width: 40%;
+    background-color: grey;
+    height: 40vh;
+    left:29%;
+    top:10vh;
+    border-radius: 13px;
+    box-shadow: 3px 3px 8px 7px rgb(231, 232, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-forma-franja-geometrica-minima_1409-1014.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border: 3px solid rgb(121, 123, 125);
+    background-position: left;
+}
+.esFoto{
+    position: relative;
+    max-width: 23%;
+    left:58%;
+    top:11vh;
+    height:30vh;
+    border-radius: 13px;
+}
